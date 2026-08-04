@@ -1,6 +1,6 @@
 {
   "package": "routines",
-  "entry_count": 2,
+  "entry_count": 3,
   "entries": [
     {
       "id": "routine-0001-077a14ddb21241b1a8c98d59151335fa",
@@ -26,6 +26,19 @@
         "starter-routine"
       ],
       "file_path": "entries/routine-0002-2693f739f4cb421586ddde0d377c4c02.md"
+    },
+    {
+      "id": "routine-0003-50c85d1b6fea4142bbe9721406de6f2c",
+      "type": "routine_def",
+      "timestamp": "2026-08-04T21:27:27Z",
+      "title": "Logbook Activity Timeline",
+      "tags": [
+        "timeline",
+        "logbook",
+        "visualization",
+        "starter-routine"
+      ],
+      "file_path": "entries/routine-0003-50c85d1b6fea4142bbe9721406de6f2c.md"
     }
   ]
 }
